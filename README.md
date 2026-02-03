@@ -12,7 +12,7 @@ This repository provides a comprehensive workflow for cleaning and processing Io
 
 ## Contents
 
-- `data/IOT-temp.csv`: Raw temperature log data.
+- `IOT-temp.csv`: Raw temperature log data.
 - `notebooks/temperature.ipynb`: Jupyter Notebook with step-by-step data cleaning and visualization.
 - `requirements.txt`: List of Python dependencies.
 - `README.md`: Project overview and instructions.
